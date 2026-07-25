@@ -43,9 +43,9 @@ export const ui = {
 	OM HES, of Ordered Priests, and to rule from there the American work of the new era, 
 	when surprisingly died in a road accident in the outskirts of Río Cuarto, 
 	in the morning of July 3, 1962, at the age of 57. It snowed copiously.`,
-    "home.p1": `Welcome to the official blog starter template. This template serves as a
-    lightweight, minimally-styled starting point for anyone looking to build a
-    personal website, blog, or portfolio with Astro.`,
+    "home.p1": `Welcome to the Master Santiago Bovisio's Teachings. Disciple, 
+	the Teachings –free, generous and magisterial– are at your disposal. 
+	It is up to you. Master Santiago came back!`,
     "home.p2": `This template comes with a few integrations already configured in your
     <code>astro.config.mjs</code> file. You can customize your setup with
     <a href="https://astro.build/integrations">Astro Integrations</a> to add
