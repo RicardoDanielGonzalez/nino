@@ -20,7 +20,14 @@ export const ui = {
 	where just European nobility could accede and whose members possessed
 	relevant psychological powers; in the “Palace of the Count”, 
 	he was under the Master Giovanni Veniviene, in those days the best herbalist in Europe,
-	from whom Santiago Bovisio learnt the art of natural healing.`,
+	from whom Santiago Bovisio learnt the art of natural healing. 
+	On January 10, 1926, now with the grade of Ordered Knight, 
+	at the age of 21, they entrusted him the mission of founding
+	a spiritual institute in Argentine. Shortly afterwards he founded the Savonarolian Union,
+	in Buenos Aires, since his Astral Guide was the great Dominican reformer and martyr of Ferrara
+	(Girolamo Savonarola; 1452-1498), who in the Teachings appears as The Monitor. 
+	Seemingly he founded later, in Rosario, the American Spiritualistic University,
+	with the adherence of groups of different kinds. Many Teachings here transcribed are from that time.`,
     "home.p1": `Welcome to the official blog starter template. This template serves as a
     lightweight, minimally-styled starting point for anyone looking to build a
     personal website, blog, or portfolio with Astro.`,
