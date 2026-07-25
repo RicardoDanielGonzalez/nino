@@ -53,7 +53,12 @@ export const ui = {
 	These courses are of different length, mainly 16 Teachings, and classified as 
 	general disciplines, or parts, linked by conceptual and thematic affinities, 
 	as the List of Works reads. The Content of Teachings appears in the beginning 
-	of every Course individually, for a thematic guide and link for a quick access.`,
+	of every Course individually, for a thematic guide and link for a quick access. 
+	As in previous occasions throughout History, quite vital ideas have undergone, 
+	as the time passed by, variations, changes and sometimes unavoidable contradictions. 
+	Those who were responsible for these currents of thought have chosen to fix by writing 
+	the original thought, if possible, emanated from the very author, a Canon, 
+	from which naturally new currents have arisen to enrich mother ideas of the Founder of the Doctrine.`,
     "home.p3": "Here are a few ideas on how to get started with the template:",
     "home.p3.0": "Handle translations in",
     "home.p3.1": "Edit this page in",
