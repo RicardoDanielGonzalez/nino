@@ -27,7 +27,12 @@ export const ui = {
 	in Buenos Aires, since his Astral Guide was the great Dominican reformer and martyr of Ferrara
 	(Girolamo Savonarola; 1452-1498), who in the Teachings appears as The Monitor. 
 	Seemingly he founded later, in Rosario, the American Spiritualistic University,
-	with the adherence of groups of different kinds. Many Teachings here transcribed are from that time.`,
+	with the adherence of groups of different kinds. Many Teachings here transcribed are from that time. 
+	On 3 March, 1937, along with three companions, founds CAFH, 
+	initials of Sacred Order of American Knights of Fire (IHES), like the European Order, 
+	but independent. The definitive consolidation of this work is reached in Buenos Aires
+	ten years later, with the approval of the unique non-modifiable Regulation, 
+	and the election of Santiago Bovisio as Knight Great Master of CAFH.`,
     "home.p1": `Welcome to the official blog starter template. This template serves as a
     lightweight, minimally-styled starting point for anyone looking to build a
     personal website, blog, or portfolio with Astro.`,
