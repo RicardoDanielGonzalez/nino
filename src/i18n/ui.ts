@@ -46,10 +46,14 @@ export const ui = {
     "home.p1": `Welcome to the Master Santiago Bovisio's Teachings. Disciple, 
 	the Teachings –free, generous and magisterial– are at your disposal. 
 	It is up to you. Master Santiago came back!`,
-    "home.p2": `This template comes with a few integrations already configured in your
-    <code>astro.config.mjs</code> file. You can customize your setup with
-    <a href="https://astro.build/integrations">Astro Integrations</a> to add
-    tools like Tailwind, React, or Vue to your project.`,
+    "home.p2": `This Canon Edition of the Teachings definitively replaces 
+	the previous 2001 Edition, and completes it. It is based on original matrices
+	faithfully preserved by some disciples, and composed of 47 Courses describing 
+	and explaining the Doctrine on Renunciation, the Fundamental Law of the New Aquarian Age. 
+	These courses are of different length, mainly 16 Teachings, and classified as 
+	general disciplines, or parts, linked by conceptual and thematic affinities, 
+	as the List of Works reads. The Content of Teachings appears in the beginning 
+	of every Course individually, for a thematic guide and link for a quick access.`,
     "home.p3": "Here are a few ideas on how to get started with the template:",
     "home.p3.0": "Handle translations in",
     "home.p3.1": "Edit this page in",
