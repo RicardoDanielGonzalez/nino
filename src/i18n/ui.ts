@@ -1,20 +1,26 @@
 export const ui = {
   en: {
-    "site.title": "Astro Blog",
-    "site.description": "Welcome to my website!",
+    "site.title": "Santiago Bovisio",
+    "site.description": "Teachings of Santiago Bovisio!",
     "nav.home": "Home",
     "nav.about": "About",
     "nav.twitter": "Twitter",
-    "home.welcome": "Welcome to my website",
-    "about.title": "About me",
-    "about.description": "I'm a web developer and I love Astro!",
-    "about.text": `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-		labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
-		viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam
-		adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus
-		et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-		vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque
-		sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.`,
+    "home.welcome": "Welcome to Master Santiago Bovisio website",
+    "about.title": "About Santiago Bovisio",
+    "about.description": "CAFH Founder",
+    "about.text": `Santiago Bovisio, born in the city of Bergamo, North of Italy, on September 29, 1904, 
+	since his early childhood manifested extraordinary faculties and prophecy, 
+	reaching extraordinary levels by virtue of time, discipline and advice of physical and astral instructors.
+	Those who knew him have reported about his voluntary access to any supraphysical dimension, 
+	powers that just some few men possessed. From a family of religious Catholics, 
+	educated at a Passionist college, he tried to enter the Order; 
+	but his health impeded it; thence his affection for the Founder, 
+	Saint Paul of the Cross and his mystique of ash. In his youth entered the Order of Knights of the Fire,
+	an European branch (C.H.E.F.), in Venice, a very reserved esoteric institute
+	where just European nobility could accede and whose members possessed
+	relevant psychological powers; in the “Palace of the Count”, 
+	he was under the Master Giovanni Veniviene, in those days the best herbalist in Europe,
+	from whom Santiago Bovisio learnt the art of natural healing.`,
     "home.p1": `Welcome to the official blog starter template. This template serves as a
     lightweight, minimally-styled starting point for anyone looking to build a
     personal website, blog, or portfolio with Astro.`,
