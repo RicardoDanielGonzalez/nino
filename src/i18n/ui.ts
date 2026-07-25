@@ -36,7 +36,13 @@ export const ui = {
 	formed family in Argentine, married in his youth and had one daughter and two sons. 
 	He travelled through the Argentine, and founded groups in the most important provinces, 
 	even in other American countries. The education of children was his great concern 
-	and erected colleges in Córdoba, Mendoza, La Plata and Santiago de Chile.`,
+	and erected colleges in Córdoba, Mendoza, La Plata and Santiago de Chile. 
+	He was preparing a terrestrial journey to Sierras Madre de Dios, 
+	Noreast of Machu Pichu to discover a land untrodden by human feet, 
+	which the Divine Mother had promised to CAFH to build a secret Mystical Community, 
+	OM HES, of Ordered Priests, and to rule from there the American work of the new era, 
+	when surprisingly died in a road accident in the outskirts of Río Cuarto, 
+	in the morning of July 3, 1962, at the age of 57. It snowed copiously.`,
     "home.p1": `Welcome to the official blog starter template. This template serves as a
     lightweight, minimally-styled starting point for anyone looking to build a
     personal website, blog, or portfolio with Astro.`,
