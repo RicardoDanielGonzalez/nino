@@ -32,7 +32,11 @@ export const ui = {
 	initials of Sacred Order of American Knights of Fire (IHES), like the European Order, 
 	but independent. The definitive consolidation of this work is reached in Buenos Aires
 	ten years later, with the approval of the unique non-modifiable Regulation, 
-	and the election of Santiago Bovisio as Knight Great Master of CAFH.`,
+	and the election of Santiago Bovisio as Knight Great Master of CAFH. Santiago Bovisio 
+	formed family in Argentine, married in his youth and had one daughter and two sons. 
+	He travelled through the Argentine, and founded groups in the most important provinces, 
+	even in other American countries. The education of children was his great concern 
+	and erected colleges in Córdoba, Mendoza, La Plata and Santiago de Chile.`,
     "home.p1": `Welcome to the official blog starter template. This template serves as a
     lightweight, minimally-styled starting point for anyone looking to build a
     personal website, blog, or portfolio with Astro.`,
